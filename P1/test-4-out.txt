@@ -1,0 +1,4 @@
+Words in morph: 3
+tsar
+s,0
+c,2,i

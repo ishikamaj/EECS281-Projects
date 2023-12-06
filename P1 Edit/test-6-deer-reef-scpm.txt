@@ -1,0 +1,21 @@
+C
+13
+//This generates the dictionary:
+//brag, brat, brad, bran, buns, bins, deer, dear, dead, read, real
+//reed, flow, wolf, liar, lair, lain, doom, mood, live
+//evil, bolt, bold, bot, boot, reef, ref
+bol[td]
+bo?t
+bra[tdgn]
+b[ui]ns
+dea[rd]
+deer&
+flow&
+lain
+lia!r
+live&
+mood&
+rea[ld]
+re?f
+
+
