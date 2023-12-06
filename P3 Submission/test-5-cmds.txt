@@ -1,0 +1,19 @@
+c Japanese
+r
+k Pop
+r
+d 2
+p
+l
+t 00:00:00:00:01|00:00:00:00:09
+r
+c Indie
+r
+g
+s
+b 5
+e 3
+d 6
+p
+l
+q

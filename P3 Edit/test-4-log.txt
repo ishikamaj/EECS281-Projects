@@ -1,0 +1,11 @@
+00:00:00:00:00|library|see some books
+00:00:00:00:00|restaurant|lots of families
+00:00:00:00:00|rec center|multiple gyms
+00:00:00:00:00|restaurant|lots of families
+00:00:00:00:00|street|god so many people
+00:00:00:00:00|library|magazines
+00:00:00:00:00|rec center|pool
+00:00:00:00:00|library|there are also people
+00:00:00:00:00|street|people
+00:00:00:00:00|street|lots of people
+00:00:00:00:00|rec center|weight training

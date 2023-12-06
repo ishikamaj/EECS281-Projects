@@ -1,0 +1,17 @@
+00:00:00:00:01|EDM|Steve Aoki
+00:00:00:00:02|EDM|R3hab
+00:00:00:00:03|Pop|Ariana Grande
+00:00:00:00:04|Indie|Foster the People
+00:00:00:00:05|Pop|Dua Lipa
+00:00:00:00:06|Japanese|CHANMINA
+00:00:00:00:07|EDM|Avicii
+00:00:00:00:08|EDM|Alesso
+00:00:00:00:09|K Pop|BTS
+00:00:00:01:00|K Pop|NCT
+00:00:00:02:00|Indie|The Neighborhood
+00:00:00:03:00|Japanese|YOASOBI
+00:00:00:04:00|K Pop|aespa
+00:00:00:05:00|Indie|girl in red
+00:00:00:06:00|Japanese|takayan
+00:00:00:07:00|Japanese|ONE OK ROCK
+00:00:00:08:00|K Pop|Twice

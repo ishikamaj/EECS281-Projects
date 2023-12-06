@@ -1,0 +1,16 @@
+43:33:66:73:73|GG|Twice
+73:17:84:73:72|BG|Enhypen
+95:62:93:17:37|Female Solo|Chungha
+83:83:83:83:83|GG|Itzy
+83:83:83:83:83|Female Solo|Sunmi
+62:38:65:73:36|BG|Golden Child
+73:27:73:72:64|GG|Cherry Bullet
+73:63:61:74:91|Male Solo|Taemin
+74:72:27:92:61|Co-ed|Kard
+53:61:64:62:94|BG|TXT
+83:61:64:02:01|GG|aespa
+54:82:23:53:24|Female Solo|Somi
+83:47:32:31:52|Male Solo|B.I
+00:00:00:00:01|BG|Seventeen
+00:32:53:32:13|Male Solo|Baekhyun
+00:32:03:00:01|BG|P1Harmony

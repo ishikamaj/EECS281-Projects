@@ -1,0 +1,12 @@
+00:00:83:03:11|nutrition|lots of fiber
+83:27:33:15:13|nutrition|maybe some potassium
+00:73:82:82:47|exercise|running is good
+53:82:75:91:36|exercise|running makes you slim
+10:63:74:19:37|rest|lots of sleep
+00:00:19:92:84|rest|maybe some naps
+00:00:00:00:62|nutrition|need protein
+21:42:52:84:83|exercise|running is kinda boring though
+00:00:00:00:62|rest|need sleep
+00:00:83:03:11|nutrition|low carbs
+10:63:74:19:37|rest|around eight hours of sleep
+15:12:22:09:08|exercise|no yoga

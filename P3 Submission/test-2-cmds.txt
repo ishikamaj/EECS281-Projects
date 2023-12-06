@@ -1,0 +1,12 @@
+m 12:10:22:12:05
+r
+k testing
+c BAC
+a 4
+a 8
+b 2
+t 00:00:00:00:00|15:00:00:00:00
+r
+#just a comment
+p
+q
